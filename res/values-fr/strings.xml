@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="update_info">-Petits bugs corrigés.\n-Erreurs de fuseaux horaires corrigées\n-Maintenant le GPS se désactive lorsque vous
+		quitter l\'application.\n-Il y a un nouveau bouton pour récupérer vos
+		anciennes données.\n-Vous pouvez enlever la pub via le menu.\n-Mag
+		info directement affichée dans les résultats.</string>
+
+	<string name="app_name">Iridium Flare Forecast</string>
+	<string name="localizeGps">Localisez moi avec le GPS</string>
+	<string name="localizeCell">Localisez moi avec la cellule GSM</string>
+	<string name="ask">Recherche des prochains flashes iridium</string>
+	<string name="latitude">Latitude</string>
+	<string name="longitude">Longitude</string>
+	<string name="error">Erreur</string>
+	<string name="no_gps">Pas de signal GPS!</string>
+	<string name="no_cell">Impossible de déterminer votre location avec le
+		GSM!</string>
+	<string name="enable_gps">SVP, activez votre GPS.</string>
+	<string name="wrong_gps_format">Format des coordonnées GPS invalide.</string>
+	<string name="help_msg_1">Pour rechercher des flashes iridium à votre
+		position, vous pouvez entrer les coordonées à la main ou presser sur
+		les bouttons \"</string>
+	<string name="help_msg_2">\".</string>
+	<string name="help_msg_3">\" ou \"</string>
+	<string name="help">Aide</string>
+	<string name="about">A propos</string>
+	<string name="about_msg_1">Iridium Flare Forecast\nversion</string>
+	<string name="about_msg_2">\npar Alexandre Wetzel\nhttp://awdisk.com\nToutes
+		les informations à propose des flashes iridium proviennent du site
+		http://www.heavens-above.com/</string>
+	<string name="date">Date: </string>
+	<string name="local_time">Heure locale: </string>
+	<string name="intensity">Intensité [Mag]: </string>
+	<string name="altitude">Alt.: </string>
+	<string name="azimuth">Azimuth: </string>
+	<string name="distance">Distance au\ncentre du flash: </string>
+	<string name="intensity_fl">Intensité au\ncentre du flash (Mag.): </string>
+	<string name="satellite">Satellite:</string>
+	<string name="time">Temps:</string>
+	<string name="title_dialogue">Info</string>
+	<string name="gmt">Votre fuseau horaire est GMT</string>
+	<string name="update">Update information</string>
+
+	<string name="find_location">"Recherche des coordonnées..."</string>
+	<string name="processing">"Traitement..."</string>
+
+	<string name="alt">Altitude (approximativement)</string>
+	<string name="iss">Recherche des prochains passage de l\'ISS</string>
+	<string name="at">à</string>
+	<string name="start">\nDébut\n</string>
+	<string name="maxAlt">\nAltitude max.\n</string>
+	<string name="end">\nFin\n</string>
+
+	<string name="errIss">Désolé, pas de passage visible de l\'ISS pour les
+		10 prochains jours.</string>
+	<string name="errIrr">Désolé, pas de passage visible de satellites
+		Iridium pour les 7 prochains jours.</string>
+	<string name="errCell">Désolé, il y a eu une erreur en essayant de trouver
+		votre position avec le réseau GMS.\n Essayer avec la puce GPS.
+	</string>
+	<string name="adEnable">Activer la pub</string>
+	<string name="adDisable">Désactiver la pub</string>
+	<string name="donate">Me faire un don</string>
+	<string name="history">Récupérer les dernières valeures utilisées</string>
+	<string name="errAlt">Altitude inconnue</string>
+	<string name="infoVers">Info version</string>
+	<string name="errFlareItem">Une erreur est survenue lors de la lecture des
+		informations sur les flares.</string>
+	<string name="errIssItem">Une erreur est survenue lors de la lecture des
+		informations sur ISS.</string>
+	<string name="errConnection">L\'application n\'arrive pas à obtenir les
+		informations. Etes-vous connecté au web?</string>
+	<string name="add">Ajouter au calendrier</string>
+	<string name="noCalendar">Vous n\'avez pas de calendrier</string>
+	<string name="okCalendar">Flare ajouté au calendrier</string>
+	<string name="no_calendar">Aucun calendrier n\'a été trouvé sur votre téléphone. Vous ne pouvez donc pas utiliser cette fonctionnalité. Désolé...</string>
+	<string name="savebutton">Enregistrer dans le calendrier</string>
+	<string name="ret">Retour sans sauver</string>
+	
+</resources>

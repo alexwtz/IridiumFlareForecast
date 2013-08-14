@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical" android:layout_width="fill_parent"
+android:layout_height="fill_parent">
+
+<ScrollView android:id="@+id/ScrollView01" android:layout_width="fill_parent" android:layout_height="wrap_content"
+android:layout_weight="1.0" android:gravity="top">
+<LinearLayout
+android:orientation="vertical" android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_weight="1.0"
+android:gravity="top">
+<TextView android:text="@+id/TextView01" android:id="@+id/TextView01"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"></TextView>
+<EditText android:text="@+id/EditText01" android:id="@+id/EditText01"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"></EditText>
+<TextView android:text="@+id/TextView02" android:id="@+id/TextView02"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"></TextView>
+	<EditText android:text="@+id/EditText02" android:id="@+id/EditText02"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"></EditText>
+	<TextView android:text="@+id/TextView04" android:id="@+id/TextView04"
+	 android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	<EditText android:text="@+id/EditText03" android:id="@+id/EditText03"
+	 android:layout_width="fill_parent" android:layout_height="wrap_content"></EditText>
+	 <TextView android:text="@+id/TextView03" android:id="@+id/TextView03"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"></TextView>
+	<Button android:text="@+id/Button01" android:id="@+id/Button01"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"></Button>
+	<Button android:text="@+id/Button03" android:id="@+id/Button03"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+</Button>
+	<Button android:text="@+id/Button02" android:id="@+id/Button02"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"></Button>
+
+
+
+
+<Button android:text="@+id/Button04" android:id="@+id/Button04"
+ android:layout_width="fill_parent" android:layout_height="wrap_content"></Button>
+</LinearLayout>
+</ScrollView>
+
+<LinearLayout android:orientation="horizontal" android:id="@+id/ad"
+		android:layout_width="fill_parent" android:layout_weight="0.0" 
+		android:layout_height="wrap_content" android:gravity="bottom" />
+</LinearLayout>

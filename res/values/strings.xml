@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="update_info">-Minor bug fixed.\n-TimeZone bug fixed.\n-GPS stops when you quit the app.\n-There is a new
+		button to recover your last used data.\n-You can now remove the ad
+		through the menu panel.\n-Mag info is directly shown in the results.
+	</string>
+
+	<string name="app_name">Iridium Flare Forecast</string>
+	<string name="localizeGps">Localize me with GPS</string>
+	<string name="localizeCell">Localize me with GSM cell</string>
+	<string name="ask">Search for next iridium flares</string>
+	<string name="latitude">Latitude</string>
+	<string name="longitude">Longitude</string>
+	<string name="error">Error</string>
+	<string name="no_gps">No GPS signal!</string>
+	<string name="no_cell">Can\'t get location from GSM cell!</string>
+	<string name="enable_gps">Please enable first your GPS.</string>
+	<string name="wrong_gps_format">Wrong GPS coordinate format.</string>
+	<string name="help_msg_1">To search for iridium flares at your location you
+		can either set up your GPS coordinates manually or press the \"
+	</string>
+	<string name="help_msg_2">\" buttons.\n</string>
+	<string name="help_msg_3">\" or \"</string>
+	<string name="help">Help</string>
+	<string name="about">About</string>
+	<string name="about_msg_1">Iridium Flare Forecast\nversion </string>
+	<string name="about_msg_2">\nby Alexandre Wetzel\nfrom http://awdisk.com\nAll
+		the information about the location of the Iridium Flares are from
+		http://www.heavens-above.com/</string>
+	<string name="date">Date: </string>
+	<string name="local_time">Local time: </string>
+	<string name="intensity">Intensity [Mag]: </string>
+	<string name="altitude">Alt.: </string>
+	<string name="azimuth">Azimuth: </string>
+	<string name="distance">Distance to\nflare centre: </string>
+	<string name="intensity_fl">Intensity at\nflare centre (Mag.): </string>
+	<string name="satellite">Satellite:</string>
+	<string name="sunaltitude">Sun altitude:</string>
+	<string name="time">Time:</string>
+	<string name="gmt">Your local timezone is GMT</string>
+	<string name="title_dialogue">Info</string>
+	<string name="update">Update info</string>
+
+	<string name="find_location">"Finding Location..."</string>
+	<string name="processing">"Processing..."</string>
+
+	<string name="zero_cste">0.0</string>
+	<string name="home_cste">Home</string>
+	<string name="url_adress_part1">http://www.heavens-above.com/IridiumFlares.aspx?lat=
+	</string>
+	<string name="url_adress_part2">&amp;lng=</string>
+	<string name="url_adress_part3">&amp;loc=</string>
+	<string name="url_adress_part4">&amp;alt=</string>
+	<string name="url_adress_part5">&amp;tz=</string>
+	<string name="key">URL</string>
+	<string name="ok">Ok</string>
+
+	<string name="alt">Altitude (approximately)</string>
+	<string name="key_iss">iss_adresse</string>
+	<string name="iss">Search for next ISS visible passes</string>
+	<string name="url_iss_adress_part1">http://heavens-above.com/PassSummary.aspx?satid=25544&amp;lat=
+	</string>
+	<string name="at">at</string>
+	<string name="start">\nStart time\n</string>
+	<string name="maxAlt">\nMax. altitude\n</string>
+	<string name="end">\nEnd time\n</string>
+
+	<string name="errIss">Sorry, no visible passes of ISS found within the
+		next 10 days.</string>
+	<string name="errIrr">Sorry, no visible passes of any Iridium satellite
+		found within the next 7 days.</string>
+	<string name="errCell">Sorry, there was an error getting your location
+		with the GSM.\n Try with your GPS chip.</string>
+	<string name="adEnable">Enable ad</string>
+	<string name="adDisable">Disable ad</string>
+	<string name="donate">Donate me</string>
+	<string name="history">Recover last used values</string>
+	<string name="errAlt">Can\'t get the altitude now</string>
+	<string name="infoVers">Info version</string>
+	<string name="errFlareItem">An error occures when reading the Flare infos.
+	</string>
+	<string name="errIssItem">An error occures when reading the ISS infos.
+	</string>
+	<string name="errConnection">The app can\'t reach the information. Are you
+		connected to the web?</string>
+	<string name="add">Add to calendar</string>
+	<string name="noCalendar">You do not have any calendar</string>
+	<string name="okCalendar">Flare added to your calendar</string>
+	<string name="no_calendar">No calendar have been found on your Android device. You cannot use this functionnality. Sorry...</string>
+	<string name="savebutton">Save to calendar</string>
+	<string name="ret">Return without saving</string>
+
+</resources>
